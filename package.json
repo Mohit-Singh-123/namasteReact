@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Restart Journey Start",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohit-Singh-123/namasteReact.git"
+  },
+  "keywords": [],
+  "author": "Mohit Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohit-Singh-123/namasteReact/issues"
+  },
+  "homepage": "https://github.com/Mohit-Singh-123/namasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
